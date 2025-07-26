@@ -25,3 +25,4 @@ Seasonality: Sales spiked in October consistently.
 Deal Size Impact: Surprisingly, medium-sized deals contributed the most revenue.
 
 Sales Forecast for 2006: Based on trends, expected revenue = $1.6M+.
+gg
